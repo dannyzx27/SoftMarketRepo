@@ -12,3 +12,12 @@ Implementar buenas prácticas de desarrollo que resuelvan los problemas actuales
 - Uso del modelo de versionamiento **GitFlow**.
 - Aplicación de principios **SOLID**.
 - Adopción de buenas prácticas complementarias (estilo de código, pruebas, documentación, control de calidad).
+
+## 🔀 Flujo de Versionamiento (GitFlow)
+
+```plaintext
+main
+ └── release
+      └── develop
+           ├── hotfix
+           └── feature
