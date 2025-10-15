@@ -35,4 +35,4 @@ Ejemplos:
 
 ---
 
-> Esta rama es clave para garantizar la calidad del software antes de su liberació
+> Esta rama es clave para garantizar la calidad del software antes de su liberación
